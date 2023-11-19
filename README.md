@@ -15,7 +15,7 @@
 
 ## Getting Started:
 
-1. Clone the repository: `git clone [Repo URL]`
+1. Clone the repository: `git clone [[Repo URL]](https://github.com/KyawIT/AocAPI)`
 2. Dive into the documentation for details on utilizing sorting algorithms.
 3. Watch for future updates as AocAPI evolves with new functionalities.
 
