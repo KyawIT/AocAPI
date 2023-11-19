@@ -1,0 +1,30 @@
+{
+  "name": "aocapi",
+  "version": "1.0.0",
+  "description": "🌐 AocAPI is your go-to companion for Advent of Code challenges, providing robust sorting algorithms to optimize your solutions. Currently focused on sorting, AocAPI has plans for future enhancements, potentially incorporating AI capabilities for advanced problem-solving.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyawIT/AocAPI.git"
+  },
+  "author": "Kyaw Htet Htun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyawIT/AocAPI/issues"
+  },
+  "homepage": "https://github.com/KyawIT/AocAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.9.2",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1"
+  }
+}
